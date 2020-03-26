@@ -2,4 +2,8 @@ orange
 mango
 dragon fruit
 kiwi
+<<<<<<< Updated upstream
 elma
+=======
+portakal
+>>>>>>> Stashed changes
