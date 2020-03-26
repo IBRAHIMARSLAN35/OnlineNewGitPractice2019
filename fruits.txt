@@ -2,7 +2,4 @@ orange
 mango
 dragon fruit
 kiwi
-elma
-portakal
-lexus
-
+toyota
